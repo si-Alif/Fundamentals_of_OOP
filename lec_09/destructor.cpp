@@ -26,6 +26,7 @@ int main(void){
   Destructor* d1  = new Destructor();
   Destructor d2;
 
+
   //d1 was living happily🤗
 
   delete d1 ; //until delete came and called it's destructors and deleted itself too😓
