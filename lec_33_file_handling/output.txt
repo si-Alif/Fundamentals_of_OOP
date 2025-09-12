@@ -1,0 +1,2 @@
+The product of 12345 and 2345 is 28949025 - written from the C++ program
+The product of 12345 and 2345 is 28949025 - written from the Java program

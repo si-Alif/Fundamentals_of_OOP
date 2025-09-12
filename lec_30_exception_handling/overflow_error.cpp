@@ -11,7 +11,7 @@ int multiply(int a , int b){
 
 int main(void){
 
-  int a = INT_MAX , b = 2 ;
+  int a = INT_MAX , b = 2 ; 
   try{
     int result = multiply(a,b);
     cout << "Result : " << result << endl;
